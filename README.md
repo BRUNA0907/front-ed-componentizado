@@ -1,1 +1,1 @@
-# front-ed-componentizado
+# front-end-componentizado
